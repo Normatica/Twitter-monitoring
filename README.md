@@ -1,4 +1,4 @@
-# Twitter-monitoring: Monitor your Twitter statistics
+# Twitter-monitoring: Monitor your Twitter statistics with Pandora FMS
 
 A [Pandora FMS](http://pandorafms.com/) agent plugin written in Python to monitor statistics about a twitter account.
 
