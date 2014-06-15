@@ -37,6 +37,6 @@ or
 
 Move the pandora_twitter_plugin.py file to your agent's folder, and add the following entry to the agent's configuration file:
 
-    module_plugin python Path_to_your_agent_folder/twitter_pandora.py
+    module_plugin python Path_to_your_agent_folder/pandora_twitter_plugin.py
 
 Substitute 'Path_to_your_agent_folder' with a valid path.
